@@ -18,37 +18,42 @@
             </div>
 
             <h2 class="text-4xl md:text-5xl font-bold tracking-tight text-notion-black mb-12 text-balance leading-[1.1]">
-                Every reply drafted, quickly.
+                Edit transcripts with ease.
             </h2>
 
             <div class="space-y-8">
                 <div class="flex gap-4">
-                    <div class="w-6 h-6 flex items-center justify-center text-notion-gray font-mono text-lg">{"{}"}</div>
+                    <div class="w-6 h-6 flex items-center justify-center text-primary-500">
+                        <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
+                    </div>
                     <div>
-                        <h3 class="font-semibold text-notion-black text-lg">Snippets</h3>
+                        <h3 class="font-semibold text-notion-black text-lg">Click to edit</h3>
+                        <p class="text-notion-gray mt-1 leading-relaxed">Fix any mistakes directly in the transcript. Changes sync instantly with timestamps.</p>
                     </div>
                 </div>
                  <div class="flex gap-4">
                     <div class="w-6 h-6 flex items-center justify-center text-orange-500">
-                        <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+                        <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
                     </div>
                     <div>
-                        <h3 class="font-semibold text-notion-black text-lg">Built-in scheduling</h3>
-                        <p class="text-notion-gray mt-1 leading-relaxed">Notion Calendar integrates with Notion Mail. Just type /schedule, mark your availability, and let others pick a time.</p>
+                        <h3 class="font-semibold text-notion-black text-lg">Timestamp navigation</h3>
+                        <p class="text-notion-gray mt-1 leading-relaxed">Jump to any moment in your video by clicking timestamps in the transcript.</p>
                     </div>
                 </div>
                  <div class="flex gap-4">
-                    <div class="w-6 h-6 flex items-center justify-center text-notion-gray">
-                        <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 14 4 9 9 4"></polyline><path d="M20 20v-7a4 4 0 0 0-4-4H4"></path></svg>
+                    <div class="w-6 h-6 flex items-center justify-center text-blue-500">
+                        <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
                     </div>
                     <div>
-                        <h3 class="font-semibold text-notion-black text-lg">Quick replies</h3>
+                        <h3 class="font-semibold text-notion-black text-lg">Export anywhere</h3>
+                        <p class="text-notion-gray mt-1 leading-relaxed">Download in SRT, VTT, TXT, or DOCX format for any platform.</p>
                     </div>
                 </div>
                  <div class="flex gap-4">
                     <div class="w-6 h-6 flex items-center justify-center text-notion-gray font-serif italic font-bold">AI</div>
                     <div>
-                        <h3 class="font-semibold text-notion-black text-lg">Improve your writing with AI</h3>
+                        <h3 class="font-semibold text-notion-black text-lg">AI-powered summaries</h3>
+                        <p class="text-notion-gray mt-1 leading-relaxed">Get key insights and topic breakdowns automatically.</p>
                     </div>
                 </div>
             </div>

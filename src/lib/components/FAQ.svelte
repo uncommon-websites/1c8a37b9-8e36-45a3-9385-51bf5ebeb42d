@@ -1,10 +1,11 @@
 <script>
     const faqs = [
-        "Which email provider(s) are Notion Mail compatible with?",
-        "When will Notion Mail be available on mobile devices?",
-        "What languages are Notion Mail available in?",
-        "Can I manage multiple emails accounts on Notion Mail?",
-        "What are Notion Mail's security standards?"
+        "What video formats does Youcap support?",
+        "How accurate is the AI transcription?",
+        "What languages are supported for transcription?",
+        "Can I edit the transcripts after they're generated?",
+        "How long does it take to transcribe a video?",
+        "What export formats are available?"
     ];
 </script>
 

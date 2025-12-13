@@ -40,7 +40,7 @@
             </div>
         </div>
         <p class="text-lg text-notion-black">
-            Split your inbox into custom views that match your focus areas.
+            Export your transcripts in multiple formats - SRT, VTT, TXT, or DOCX.
         </p>
     </div>
 
@@ -64,7 +64,7 @@
              </div>
         </div>
         <p class="text-lg text-notion-black">
-            Group and filter emails by topic, sender, label—whatever you need.
+            Search across all your transcripts instantly to find any moment or topic.
         </p>
     </div>
 </section>

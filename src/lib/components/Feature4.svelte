@@ -15,10 +15,10 @@
             </div>
 
             <h2 class="text-4xl md:text-5xl font-bold tracking-tight text-notion-black mb-6 text-balance leading-[1.1]">
-                It feels just <br /> like Notion.
+                Repurpose content <br /> in seconds.
             </h2>
             <p class="text-xl text-notion-gray max-w-md">
-                Quickly compose beautiful emails with the Notion editor.
+                Transform your videos into blog posts, social media content, and more with AI assistance.
             </p>
         </div>
 

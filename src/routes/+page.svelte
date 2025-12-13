@@ -12,7 +12,7 @@
 </script>
 
 <svelte:head>
-	<title>Notion Mail</title>
+	<title>Youcap - AI-Powered Video Transcription & Captioning</title>
 </svelte:head>
 
 <Hero />

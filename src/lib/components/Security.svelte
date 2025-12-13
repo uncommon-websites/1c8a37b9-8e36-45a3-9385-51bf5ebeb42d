@@ -1,6 +1,6 @@
 <section class="max-w-[1200px] mx-auto px-4 py-20 border-t border-gray-100">
     <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-notion-black mb-12">
-        Built with data security in mind.
+        Your content is secure and private.
     </h2>
 
     <div class="grid md:grid-cols-3 gap-8">
@@ -28,7 +28,7 @@
                 </svg>
             </div>
             <div>
-                <h3 class="font-semibold text-notion-black text-lg">No training on your data.</h3>
+                <h3 class="font-semibold text-notion-black text-lg">Your videos stay private. No AI training on your content.</h3>
             </div>
         </div>
 
